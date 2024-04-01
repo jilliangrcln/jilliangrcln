@@ -11,12 +11,12 @@
 ---
 
 <br>
-<h3 align="center" colour="yellow">Student at De La Salle University - Manila</h3>
+<h2 align="center" colour="yellow">Student at De La Salle University - Manila</h2>
 <p align="center">As a dedicated college student, I'm constantly enhancing my skills to showcase my full potential. Excited to tackle upcoming challenges and showcase my growth!</p>
 
 <br><br>
 
-<h3>Get to know about me:</h3>
+<h2 align="center" colour="yellow">Get to know about me:</h2>
 <br>
 - 👩‍💻 I am a Computer Science student
 <br>
