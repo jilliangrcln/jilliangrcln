@@ -35,12 +35,12 @@
 <br>
 
 <div align="center">
-   <img alt="C++ logo" src="" width="65" />
-   <img alt="Github logo" src="" width="65" />
-   <img alt="Python logo" src="" width="65" />
-   <img alt="HTML logo" src="" width="65" />
-   <img alt="CSS logo" src="" width="65" />
-   <img alt="JS logo" src="" width="65" />
+   <img alt="C++ logo" src="C++ Logo.png" width="65" />
+   <img alt="Github logo" src="Github logo.png" width="65" />
+   <img alt="Python logo" src="Python Logo.png" width="65" />
+   <img alt="HTML logo" src="HTML Logo.png" width="65" />
+   <img alt="CSS logo" src="CSS Logo.png" width="65" />
+   <img alt="JS logo" src="JS Logo.png" width="65" />
 
   </div>
 
