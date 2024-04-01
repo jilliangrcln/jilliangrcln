@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="bg.gif" alt="sky" width="80%"/>
+  <img src="bg.gif" alt="sky" width="100%"/>
 </p>
----
-
-<br>
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFE5AD&center=true&vCenter=true&random=false&width=435&lines=Hello+there+%3A)+!)](https://git.io/typing-svg)
+
+</div>
+
 
 ---
 
