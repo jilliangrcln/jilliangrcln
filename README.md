@@ -16,11 +16,11 @@
 
 <br><br>
 
-<h3>Get to know a little about me:</h3>
+<h3>Get to know about me:</h3>
 <br>
-- 👩‍💻 I am a Computer Science student 
+- 👩‍💻 I am a Computer Science student
 <br>
-- 🌱 Learning C++, Python, JS, and CSS. I am still improving my skills in designin and code architecture.
+- 🌱 Learning C++, Python, JS, and CSS. I am still improving my skills in designing and coding architecture.
 <br>
 - 🎮 I am a gamer! The games I mostly play are Valorant, Counter-Strike, Palworld and League of Legends (ofcourse TFT is included😄)!
 <br>
