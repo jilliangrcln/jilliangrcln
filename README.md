@@ -3,7 +3,7 @@
 </p>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFE5AD&center=true&vCenter=true&random=false&width=435&lines=Hello+there%E2%9C%A8;My+name+is+ilyan+(%E2%9D%81%C2%B4%E2%97%A1%60%E2%9D%81))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFE5AD&random=false&width=500&lines=Hello+(%E2%97%8F'%E2%97%A1'%E2%97%8F)!;You+can+call+me+ilyan+(%E2%89%A7%E2%88%87%E2%89%A6)%EF%BE%89)](https://git.io/typing-svg)
 
 </div>
 
