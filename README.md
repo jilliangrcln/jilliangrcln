@@ -1,6 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="bg.gif">   
-
+<p align="center">
+  <img src="bg.gif" alt="sky" width="80%"/>
+</p>
 ---
 
 <br>
