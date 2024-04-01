@@ -56,7 +56,7 @@
   <br>
 
   <div align="center">
-    <img alt="my streak" src="">
+    <img alt="my streak" src=""https://streak-stats.demolab.com?user=jilliangrcln&theme=great-gatsby" alt="GitHub Streak">
   </div>
 
   ---
