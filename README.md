@@ -28,7 +28,7 @@
 <br>
 - 🐶 I am a furmom! My baby dog's name is Kenya 🎀
 <br>
-- 📫 You may contact me here : <u>jilliangarcilan@gmail.com</u> or <u>jillian_garcilan@dlsu.edu.ph</u>
+- 📫 You may contact me here : **jilliangarcilan@gmail.com** or **jillian_garcilan@dlsu.edu.ph**
 
 <br><br>
 
@@ -36,14 +36,11 @@
 
 <br>
 
-<div align="center">
-   <img alt="C++ logo" src="C++ Logo.png" width="65" />
-   <img alt="Github logo" src="Github logo.png" width="65" />
-   <img alt="Python logo" src="Python Logo.png" width="65" />
-   <img alt="HTML logo" src="HTML Logo.png" width="65" />
-   <img alt="CSS logo" src="CSS Logo.png" width="65" />
-   <img alt="JS logo" src="JS Logo.png" width="65" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&pause=1000&color=FF6B97&center=true&vCenter=true&random=false&width=435&lines=LANGUAGES)](https://git.io/typing-svg)
 
+| Python | JavaScript | C++ | HTML/CSS |
+|:-:|:-:|:-:|:-:|
+| [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) |
   </div>
 
   <br>
