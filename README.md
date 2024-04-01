@@ -52,13 +52,10 @@
     <img alt="my stats" src="https://github-readme-stats-rho-topaz.vercel.app/api?username=jilliangrcln&theme=great-gatsby&bg_color=00000000&show_icons=true&hide_border=true&card_width=350" />
     </div>
 
-    <br>
   ---
   <div align="center">
     <img alt="my most used languages" src="https://github-readme-stats-rho-topaz.vercel.app/api/top-langs?username=jilliangrcln&theme=great-gatsby&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=350" />
   </div>
-
-  <br>
 
   ---
   
