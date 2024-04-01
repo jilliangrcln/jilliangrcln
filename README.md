@@ -50,11 +50,18 @@
 
   <div align="center">
     <img alt="my stats" src="https://github-readme-stats-rho-topaz.vercel.app/api?username=jilliangrcln&theme=great-gatsby&bg_color=00000000&show_icons=true&hide_border=true&card_width=350" />
+    </div>
+
+    <br>
+  ---
+  <div align="center">
     <img alt="my most used languages" src="https://github-readme-stats-rho-topaz.vercel.app/api/top-langs?username=jilliangrcln&theme=great-gatsby&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=350" />
   </div>
 
   <br>
 
+  ---
+  
   <div align="center">
     <img alt="my streak" src="https://streak-stats.demolab.com?user=jilliangrcln&theme=great-gatsby&hide_border=true&ring=982176&fire=F11A7B&currStreakNum=FFE5AD&sideNums=982176&dates=FFE5AD&sideLabels=F11A7B&excludeDaysLabel=FFE5AD&stroke=3E001F&currStreakLabel=982176">
   </div>
