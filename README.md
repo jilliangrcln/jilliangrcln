@@ -27,6 +27,8 @@
 - 🧶 Aside from coding and gaming, I also do crocheting! I am still a small business owner and you can check my works here on my fb page (https://facebook.com/knotsbyilyan)
 <br>
 - 🐶 I am a furmom! My baby dog's name is Kenya 🎀
+<br>
+- 📫 You may contact me here : <u>jilliangarcilan@gmail.com</u> or <u>jillian_garcilan@dlsu.edu.ph</u>
 
 <br><br>
 
