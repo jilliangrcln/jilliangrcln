@@ -24,7 +24,7 @@
 <br>
 - 🎮 I am a gamer! The games I mostly play are Valorant, Counter-Strike, Palworld and League of Legends (ofcourse TFT is included😄)!
 <br>
-- 🧶 Aside from coding and gaming, I also do crocheting! I am still a small business owner and you can check my works here on my fb page (https://facebook.com/knotsbyilyan)💗 
+- 🧶 Aside from coding and gaming, I also do crocheting! I am still a small business owner and you can check my works here on my fb page (https://facebook.com/knotsbyilyan). 💗 
 <br>
 - 🐶 I am a furmom! My baby dog's name is Kenya 🎀
 
