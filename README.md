@@ -11,6 +11,7 @@
 ---
 
 <br>
-<p align="center">I currently a college computer science student. I am doing my best to improve so I can't wait to show y'all how much I've got. I am looking forward to the challenges I will face. I mostly love to designing :).</p>
+<h3 align="center" colour="#FFE5AD">Student at De La Salle University - Manila</h3>
+<p align="center">As a dedicated college computer science student, I'm constantly enhancing my skills to showcase my full potential. Excited to tackle upcoming challenges and demonstrate my growth!</p>
 
 <br><br>
