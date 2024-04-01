@@ -28,6 +28,35 @@
 <br>
 - 🐶 I am a furmom! My baby dog's name is Kenya 🎀
 
+<br><br>
+
 ---
 
 <br>
+
+<div align="center">
+   <img alt="C++ logo" src="" width="65" />
+   <img alt="Github logo" src="" width="65" />
+   <img alt="Python logo" src="" width="65" />
+   <img alt="HTML logo" src="" width="65" />
+   <img alt="CSS logo" src="" width="65" />
+   <img alt="JS logo" src="" width="65" />
+
+  </div>
+
+  <br>
+
+  ---
+
+  <div align="center">
+    <img alt="my stats" src="https://github-readme-stats-rho-topaz.vercel.app/api?username=jilliangrcln&theme=great-gatsby&bg_color=00000000&show_icons=true&hide_border=true&card_width=350" />
+    <img alt="my most used languages" src="" />
+  </div>
+
+  <br>
+
+  <div align="center">
+    <img alt="my streak" src="">
+  </div>
+
+  ---
