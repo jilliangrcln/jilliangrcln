@@ -17,7 +17,6 @@
 <br><br>
 
 <h2 align="center" colour="yellow">Get to know about me:</h2>
-<br>
 - 👩‍💻 I am a Computer Science student
 <br>
 - 🌱 Learning C++, Python, JS, and CSS. I am still improving my skills in designing and coding architecture.
