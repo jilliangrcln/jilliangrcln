@@ -11,12 +11,12 @@
 ---
 
 <br>
-<h2 align="center" colour="yellow">Student at De La Salle University - Manila</h2>
+<h3 align="center" colour="yellow">Student at De La Salle University - Manila</h3>
 <p align="center">As a dedicated college student, I'm constantly enhancing my skills to showcase my full potential. Excited to tackle upcoming challenges and showcase my growth!</p>
 
 <br><br>
 
-<h2 align="center" colour="yellow">Get to know about me:</h2>
+<h3 align="center" colour="yellow">Get to know about me:</h3>
 - 👩‍💻 I am a Computer Science student
 <br>
 - 🌱 Learning C++, Python, JS, and CSS. I am still improving my skills in designing and coding architecture.
@@ -27,7 +27,7 @@
 <br>
 - 🐶 I am a furmom! My baby dog's name is Kenya 🎀
 <br>
-- 📫 You may contact me here : **jilliangarcilan@gmail.com** or **jillian_garcilan@dlsu.edu.ph**
+- 📫 You may contact me here : jilliangarcilan@gmail.com or jillian_garcilan@dlsu.edu.ph
 
 <br><br>
 
