@@ -56,7 +56,7 @@
   <br>
 
   <div align="center">
-    <img alt="my streak" src="https://streak-stats.demolab.com?user=jilliangrcln&theme=nightowl&hide_border=true&background=FFE5AD&ring=3E001F&fire=F11A7B&currStreakNum=982176&sideNums=982176&dates=3E001F&sideLabels=F11A7B&excludeDaysLabel=3E001F&stroke=3E001F&currStreakLabel=982176">
+    <img alt="my streak" src="https://streak-stats.demolab.com?user=jilliangrcln&theme=great-gatsby&hide_border=true&ring=982176&fire=F11A7B&currStreakNum=FFE5AD&sideNums=982176&dates=FFE5AD&sideLabels=F11A7B&excludeDaysLabel=FFE5AD&stroke=3E001F&currStreakLabel=982176">
   </div>
 
   ---
