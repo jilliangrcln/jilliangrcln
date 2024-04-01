@@ -60,7 +60,7 @@
   ---
   
   <div align="center">
-    <img alt="my streak" src="https://streak-stats.demolab.com?user=jilliangrcln&theme=great-gatsby&hide_border=true&ring=982176&fire=F11A7B&currStreakNum=FFE5AD&sideNums=982176&dates=FFE5AD&sideLabels=F11A7B&excludeDaysLabel=FFE5AD&stroke=3E001F&currStreakLabel=982176">
+    <img alt="my streak" src="https://streak-stats.demolab.com/?user=jilliangrcln&theme=great-gatsby&background=00000000&hide_border=true"">
   </div>
 
   ---
