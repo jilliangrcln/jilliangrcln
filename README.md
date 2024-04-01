@@ -36,7 +36,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&pause=1000&color=FF6B97&center=true&vCenter=true&random=false&width=435&lines=LANGUAGES)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&pause=1000&color=FF6B97&vCenter=true&random=false&width=435&lines=LANGUAGES)](https://git.io/typing-svg)
 
 | Python | JavaScript | C++ | HTML/CSS |
 |:-:|:-:|:-:|:-:|
