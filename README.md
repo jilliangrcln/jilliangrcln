@@ -11,7 +11,7 @@
 ---
 
 <br>
-<h3 align="center" colour="#FFE5AD">Student at De La Salle University - Manila</h3>
+<h3 align="center" color = #FFE5AD>Student at De La Salle University - Manila</h3>
 <p align="center">As a dedicated college computer science student, I'm constantly enhancing my skills to showcase my full potential. Excited to tackle upcoming challenges and demonstrate my growth!</p>
 
 <br><br>
