@@ -47,12 +47,12 @@
 
   ---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&size=30&pause=1000&color=BD4882&vCenter=true&random=false&width=435&lines=%F0%9F%92%AA%F0%9F%8F%BBGITHUB+STATS)](https://git.io/typing-svg)
+
   <div align="center">
     <img alt="my stats" src="https://github-readme-stats-rho-topaz.vercel.app/api?username=jilliangrcln&theme=great-gatsby&bg_color=00000000&show_icons=true&hide_border=true&card_width=350" />
-    </div>
 
-  ---
-  <div align="center">
+ <br> 
     <img alt="my most used languages" src="https://github-readme-stats-rho-topaz.vercel.app/api/top-langs?username=jilliangrcln&theme=great-gatsby&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=350" />
   </div>
 
