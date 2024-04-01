@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jilliangrcln/ilyan/blob/main/bg.gif">   
+  <source media="(prefers-color-scheme: dark)" srcset="bg.gif">   
 
 ---
 
