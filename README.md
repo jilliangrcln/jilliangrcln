@@ -59,7 +59,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&size=30&pause=1000&color=FFB5B5&vCenter=true&random=false&width=435&lines=%F0%9F%8E%AFMY+STREAKS)](https://git.io/typing-svg)
 
   <div align="center">
-    <img alt="my streak" src="https://streak-stats.demolab.com/?user=jilliangrcln&theme=great-gatsby&background=00000000&hide_border=true"">
+    <img alt="my streak" src="https://streak-stats.demolab.com/?user=jilliangrcln&theme=great-gatsby&background=00000000&hide_border=true">
   </div>
 
   ---
